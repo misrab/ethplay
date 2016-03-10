@@ -4,6 +4,24 @@ playing with a private ethereum testnet
 
 
 
+## list of names I own
+
+all TODO
+
+neo
+monkfish
+misrab
+titan
+TTN
+
+
+yellowpages
+blogger
+reputation?
+auction?
+adexchange?
+currency exchange?
+
 
 ## launching
 
@@ -139,6 +157,10 @@ greeter.address;
 // cleanup
 greeter.kill.sendTransaction({from:eth.accounts[0]})
 
+
+## loading into geth console
+
+loadScript("/Users/username/file.js")
 
 
 ## registrars
